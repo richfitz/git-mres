@@ -1,3 +1,4 @@
 *.pdf
 passwords
 data/shapefiles
+.Rproj.user
