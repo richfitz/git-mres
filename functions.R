@@ -3,6 +3,7 @@ square <- function(x) {
   x * x
 }
 
+## Multiply any two numbers
 multiply <- function(x, y) {
   x * y
 }
